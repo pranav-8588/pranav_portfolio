@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Senior Technical Associate",
+    "organisation": "Merilytics",
+    "startDate": "July, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on automating data flow in Azure", "Developed several pipelines and python scripts to clean and consolidate data from different sources."],
+    "imageSrc": "history/merilytics.jpeg"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Tech Sutantra",
+    "startDate": "Mar, 2022",
+    "endDate": "Jun, 2022",
+    "experiences": ["Developed a Flutter application for company management", "Designed it from scratch"],
+    "imageSrc": "history/tech_sutantra.jpeg"
+  }
+]
